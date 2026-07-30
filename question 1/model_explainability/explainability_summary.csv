@@ -1,0 +1,2 @@
+Model Type,Number of Original Features,Number of Transformed Features,Explainability Methods,Top Permutation Feature,Top Permutation Importance,Top SHAP Feature,Top Mean Absolute SHAP Value
+XGBClassifier,49,1057,"Permutation importance, native model importance, SHAP",country,0.09466113481940763,country_PRT,0.6542099

@@ -1,0 +1,5 @@
+Prediction Status,Count,Percentage
+True Negative,5381,61.77956371986223
+True Positive,1837,21.09070034443169
+False Positive,953,10.941446613088404
+False Negative,539,6.188289322617681
